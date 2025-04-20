@@ -7,21 +7,18 @@ Allow users to:
 - adding friends and forming groups.
 
 Group Planning:
-
-Create trips with group invites.
-
-Collaborative itinerary building (add places, activities, travel times).
-
-Group voting or polls for decisions (where to eat, what to do, etc.).
+- Create trips with group invites.
+- Collaborative itinerary building (add places, activities, travel times).
+- Group voting or polls for decisions (where to eat, what to do, etc.).
 
 Real-Time Location Sharing:
-Share your location with group members during the trip.
+- Share your location with group members during the trip.
 
 Trip Chats & Updates:
-In-app messaging for group discussions, reminders, and updates.
+- In-app messaging for group discussions, reminders, and updates.
 
 AI Trip Suggestions:
-Based on the location, weather, and group preferences, suggest activities, restaurants, etc.
+- Based on the location, weather, and group preferences, suggest activities, restaurants, etc.
 
 <strong> 2. Design & UI/UX </strong>
 App Design Style:
