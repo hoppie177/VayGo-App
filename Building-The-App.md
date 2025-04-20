@@ -1,8 +1,10 @@
-1. Core Features & MVP (Minimum Viable Product)
+<strong> 1. Core Features & MVP (Minimum Viable Product) 
 We’ll want to focus on the most essential features to get the app up and running. Here’s a starting point:
 
-User Accounts/Profiles:
-Allow users to create and manage profiles, adding friends and forming groups.
+<strong> User Accounts/Profiles:
+Allow users to: 
+- create and manage profiles.
+- adding friends and forming groups.
 
 Group Planning:
 
