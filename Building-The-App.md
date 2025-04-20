@@ -1,7 +1,7 @@
 <strong> 1. Core Features & MVP (Minimum Viable Product) 
 We’ll want to focus on the most essential features to get the app up and running. Here’s a starting point:
 
-<strong> User Accounts/Profiles:
+<strong> User Accounts/Profiles: </strong>
 Allow users to: 
 - create and manage profiles.
 - adding friends and forming groups.
@@ -23,7 +23,7 @@ In-app messaging for group discussions, reminders, and updates.
 AI Trip Suggestions:
 Based on the location, weather, and group preferences, suggest activities, restaurants, etc.
 
-<strong> 2. Design & UI/UX
+<strong> 2. Design & UI/UX </strong>
 App Design Style:
 Clean, modern, and easy to use. A minimalistic but fun look with a focus on vibrant colors to make it feel fresh.
 
