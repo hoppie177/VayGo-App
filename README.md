@@ -52,24 +52,14 @@ User will come together and vote on important things for the trip
 - Hot Spots Map Layer
 (Tap a city or area and see “Group Tags” — favorite spots, secret finds, sketchy places to avoid.)
 
-🧳 8. PackTogether List
-Collaborative packing checklist — assigns items (e.g., “Speaker – Jessie 🎵”)
+<strong>🧳 8. PackTogether List </strong>
+- Can make a checklist of what's needed for thr trip or what needs to be packed.
+- Items can be checked off by everyone and they cna decide who's brining what
 
-Alert when someone forgot to pack what they committed to (“Ayo… no one brought sunscreen 😐”)
 
-🎁 9. “Deal Hunt” Bot
-AI bot that finds deals for flights, stays, or activities — based on your trip window & budget
+<strong> 🎁 9. “Deal Hunt” Bot </strong>
+- AI bot that finds deals for flights, stays, or activities — based on your trip window & budget
+- Notifies the group when it finds something spicy
 
-Notifies the group when it finds something spicy
 
-💬 10. Roast or Toast
-Optional feature: after the trip, everyone anonymously sends praise or playful roasts
-
-“Best Dressed 💅” – “Most Likely to Miss a Flight 🫠” – “Car DJ MVP 🎧”
-
-🤝 Bonus Features
-Guest Access Links for late joiners
-
-Offline Mode so your plans don’t vanish in the woods
-
-Countdown Widget for your lockscreen (“6 days until ✈️ Cabo”)
+<strong> Countdown Widget for your lockscreen (“6 days until ✈️ Cabo”) </strong>
